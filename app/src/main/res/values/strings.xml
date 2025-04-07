@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ciné</string>
+    <string name="colored_text">Enjoy The <font color="#BB0026">Best</font> Movies and TV shows Out There</string>
+    <string name="hulu">hulu</string>
+    <string name="Watch_full_seasons">Get all the data of all the movie and shows right there in the world</string>
+    <string name="get_started">Get started</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="about">About</string>
+    <string name="favorite_button">Favorite button</string>
+    <string name="favorites_will_be_appear_here">Favorites will be appear here</string>
+    <string name="empty_state_icon">empty_state_icon</string>
+    <string name="about_text">Ciné is your personal cinema companion, designed to help you discover, track, and organize your favorite films. Our app provides a seamless experience for browsing trending movies, keeping track of what you\'re watching, and saving your favorites for easy access.\n\nBuilt with modern Android development practices, MovieHub offers a clean and intuitive interface that puts the focus on what matters most - the movies you love.</string>
+
+    <string name="features_text">• Movie Discovery: Browse trending and latest movies with detailed information\n\n• Favorites System: Save your favorite movies for quick access with one tap\n\n• Detailed Information: View ratings, genres, runtimes, and other essential details\n\n• Image Galleries: Explore multiple images for each movie\n\n• Beautiful UI: Enjoy a clean, modern interface with intuitive navigation\n\n• Badge Notifications: Keep track of your favorites count with our dynamic badge system</string>
+
+    <string name="credits_text">Developed using:\n• Kotlin\n• Android Architecture Components\n• Room Database for local storage\n• Coil3 for image loading\n• Material Design components\n• Gson for JSON parsing\n• Coroutines for asynchronous operations\n\nMovie data sourced from public API collections.</string>
+    <string name="search_button">Search</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="illustration">Illustration</string>
+    <string name="search">Search</string>
+    <string name="search_for_movies_series_etc">Search for movies, series, etc.</string>
+    <string name="main_page_image" />
+    <string name="version_1_0_0">Version 1.0.0</string>
+    <string name="key_features">Key Features</string>
+    <string name="credits">Credits</string>
+    <string name="movie_poster">movie_poster</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="nothing_to_show_here">nothing_to_show_here</string>
+</resources>
