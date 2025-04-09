@@ -7,6 +7,7 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.fragment.app.Fragment
 import com.example.cineverse.R
+import com.example.cineverse.api.RetrofitObject
 import com.example.cineverse.data.FavMovieViewModel
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
@@ -77,4 +78,5 @@ class HomeActivity : AppCompatActivity() {
             commit()
         }
     }
+
 }

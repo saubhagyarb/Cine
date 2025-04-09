@@ -148,12 +148,12 @@ class MovieAdapter(
 
         if (isFavorite) {
             favoriteButton.setIconResource(R.drawable.remove)
-            favoriteButton.text = "Remove"
+            favoriteButton.text = String.format("Remove")
             favoriteButton.setBackgroundColor(ContextCompat.getColor(context,R.color.md_theme_secondaryContainer))
             favoriteButton.setTextColor(ContextCompat.getColorStateList(context, R.color.md_theme_onSecondaryContainer))
         } else {
             favoriteButton.setIconResource(R.drawable.favorite_filled)
-            favoriteButton.text = "Add"
+            favoriteButton.text = String.format("Add")
             favoriteButton.setBackgroundColor(ContextCompat.getColor(context,R.color.md_theme_primaryContainer))
             favoriteButton.setTextColor(ContextCompat.getColorStateList(context, R.color.md_theme_onPrimaryContainer))
         }
